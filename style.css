@@ -1,10 +1,19 @@
 body {
-  font-family: sans-serif;
-  padding: 40px;
-  background-color: #f3f3f3;
-  color: #333;
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    line-height: 1.6;
+    background-color: #f4f4f4; /* Light gray background */
+    color: #333; /* Dark gray text */
+    text-align: center; /* Center align all content */
 }
 
 h1 {
-  color: #007acc;
+    color: #0056b3; /* A nice blue for the heading */
+    font-size: 3em; /* Larger heading */
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2em; /* Slightly larger paragraph text */
+    margin-bottom: 5px;
 }
